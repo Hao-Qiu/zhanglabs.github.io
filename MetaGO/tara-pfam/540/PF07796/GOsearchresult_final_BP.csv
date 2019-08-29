@@ -1,0 +1,16 @@
+GO:0008152	P	0.76	metabolic process
+GO:0071704	P	0.65	organic substance metabolic process
+GO:0009987	P	0.61	cellular process
+GO:0044699	P	0.60	single-organism process
+GO:0044237	P	0.60	cellular metabolic process
+GO:0044710	P	0.43	single-organism metabolic process
+GO:0044763	P	0.38	single-organism cellular process
+GO:0044249	P	0.31	cellular biosynthetic process
+GO:1901576	P	0.28	organic substance biosynthetic process
+GO:0006807	P	0.24	nitrogen compound metabolic process
+GO:0044711	P	0.18	single-organism biosynthetic process
+GO:1901564	P	0.14	organonitrogen compound metabolic process
+GO:1901566	P	0.10	organonitrogen compound biosynthetic process
+GO:1901360	P	0.10	organic cyclic compound metabolic process
+GO:0006725	P	0.10	cellular aromatic compound metabolic process
+GO:0046483	P	0.09	heterocycle metabolic process

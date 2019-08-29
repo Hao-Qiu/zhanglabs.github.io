@@ -1,0 +1,10 @@
+GO:0044464	C	0.90	cell part
+GO:0016020	C	0.81	membrane
+GO:0044462	C	0.20	external encapsulating structure part
+GO:0009279	C	0.18	cell outer membrane
+GO:0016021	C	0.06	integral component of membrane
+GO:0005886	C	0.06	plasma membrane
+GO:0005829	C	0.06	cytosol
+GO:0030288	C	0.01	outer membrane-bounded periplasmic space
+GO:0015627	C	0.01	type II protein secretion system complex
+GO:0009289	C	0.01	pilus

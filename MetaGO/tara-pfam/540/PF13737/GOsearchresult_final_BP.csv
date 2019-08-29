@@ -1,0 +1,9 @@
+GO:0006260	P	0.13	DNA replication
+GO:0006261	P	0.10	DNA-dependent DNA replication
+GO:0006281	P	0.09	DNA repair
+GO:0051345	P	0.05	positive regulation of hydrolase activity
+GO:0043087	P	0.05	regulation of GTPase activity
+GO:0007264	P	0.05	small GTPase mediated signal transduction
+GO:1902531	P	0.04	regulation of intracellular signal transduction
+GO:0040007	P	0.01	growth
+GO:0006284	P	0.01	base-excision repair

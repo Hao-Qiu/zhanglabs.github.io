@@ -1,0 +1,10 @@
+GO:0003824	F	0.22	catalytic activity
+GO:0016787	F	0.05	hydrolase activity
+GO:0046872	F	0.02	metal ion binding
+GO:0071972	F	0.01	peptidoglycan L,D-transpeptidase activity
+GO:0016811	F	0.01	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0016791	F	0.01	phosphatase activity
+GO:0016757	F	0.01	transferase activity, transferring glycosyl groups
+GO:0016491	F	0.01	oxidoreductase activity
+GO:0016462	F	0.01	pyrophosphatase activity
+GO:0008270	F	0.01	zinc ion binding

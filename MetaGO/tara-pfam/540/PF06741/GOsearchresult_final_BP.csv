@@ -1,0 +1,28 @@
+GO:0009987	P	0.98	cellular process
+GO:0065007	P	0.72	biological regulation
+GO:0050789	P	0.70	regulation of biological process
+GO:0008152	P	0.65	metabolic process
+GO:0050794	P	0.62	regulation of cellular process
+GO:0071840	P	0.45	cellular component organization or biogenesis
+GO:0016043	P	0.43	cellular component organization
+GO:0043933	P	0.32	macromolecular complex subunit organization
+GO:0022607	P	0.32	cellular component assembly
+GO:0044237	P	0.31	cellular metabolic process
+GO:0065003	P	0.30	macromolecular complex assembly
+GO:0071704	P	0.29	organic substance metabolic process
+GO:0034622	P	0.28	cellular macromolecular complex assembly
+GO:0044238	P	0.27	primary metabolic process
+GO:0022618	P	0.27	ribonucleoprotein complex assembly
+GO:0043170	P	0.24	macromolecule metabolic process
+GO:0044260	P	0.23	cellular macromolecule metabolic process
+GO:0006996	P	0.23	organelle organization
+GO:0051128	P	0.18	regulation of cellular component organization
+GO:0070925	P	0.16	organelle assembly
+GO:0033043	P	0.16	regulation of organelle organization
+GO:0044087	P	0.15	regulation of cellular component biogenesis
+GO:0034063	P	0.14	stress granule assembly
+GO:0010603	P	0.14	regulation of cytoplasmic mRNA processing body assembly
+GO:0044699	P	0.13	single-organism process
+GO:0034641	P	0.12	cellular nitrogen compound metabolic process
+GO:0006139	P	0.11	nucleobase-containing compound metabolic process
+GO:0090304	P	0.10	nucleic acid metabolic process

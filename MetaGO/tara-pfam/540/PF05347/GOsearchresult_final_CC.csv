@@ -1,0 +1,10 @@
+GO:0044444	C	1.00	cytoplasmic part
+GO:0043227	C	0.98	membrane-bounded organelle
+GO:0005739	C	0.97	mitochondrion
+GO:0044429	C	0.78	mitochondrial part
+GO:0070013	C	0.22	intracellular organelle lumen
+GO:0005759	C	0.17	mitochondrial matrix
+GO:0005829	C	0.13	cytosol
+GO:0043234	C	0.09	protein complex
+GO:0005737	C	0.09	cytoplasm
+GO:0045239	C	0.04	tricarboxylic acid cycle enzyme complex

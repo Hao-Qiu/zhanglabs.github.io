@@ -1,0 +1,10 @@
+GO:0044464	C	0.99	cell part
+GO:0044444	C	0.94	cytoplasmic part
+GO:0005829	C	0.72	cytosol
+GO:0005737	C	0.18	cytoplasm
+GO:0016020	C	0.08	membrane
+GO:0005739	C	0.03	mitochondrion
+GO:0031966	C	0.02	mitochondrial membrane
+GO:0005740	C	0.02	mitochondrial envelope
+GO:0009536	C	0.01	plastid
+GO:0005886	C	0.01	plasma membrane

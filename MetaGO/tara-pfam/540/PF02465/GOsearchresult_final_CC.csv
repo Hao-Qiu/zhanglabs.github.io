@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0044461	C	0.65	bacterial-type flagellum part
+GO:0016020	C	0.48	membrane
+GO:0005886	C	0.32	plasma membrane
+GO:0005829	C	0.27	cytosol
+GO:0009424	C	0.05	bacterial-type flagellum hook
+GO:0043228	C	0.03	non-membrane-bounded organelle
+GO:0009421	C	0.03	bacterial-type flagellum filament cap
+GO:0044462	C	0.01	external encapsulating structure part
+GO:0042645	C	0.01	mitochondrial nucleoid

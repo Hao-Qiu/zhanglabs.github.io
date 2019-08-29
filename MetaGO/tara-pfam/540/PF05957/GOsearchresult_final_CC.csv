@@ -1,0 +1,10 @@
+GO:0044464	C	0.98	cell part
+GO:0016020	C	0.65	membrane
+GO:0044444	C	0.38	cytoplasmic part
+GO:0005829	C	0.37	cytosol
+GO:0005886	C	0.27	plasma membrane
+GO:0016021	C	0.04	integral component of membrane
+GO:0070013	C	0.01	intracellular organelle lumen
+GO:0060187	C	0.01	cell pole
+GO:0030288	C	0.01	outer membrane-bounded periplasmic space
+GO:0009279	C	0.01	cell outer membrane

@@ -1,0 +1,10 @@
+GO:0003824	F	0.96	catalytic activity
+GO:0016740	F	0.92	transferase activity
+GO:0016772	F	0.65	transferase activity, transferring phosphorus-containing groups
+GO:0003976	F	0.33	UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity
+GO:0042802	F	0.01	identical protein binding
+GO:0019899	F	0.01	enzyme binding
+GO:0016788	F	0.01	hydrolase activity, acting on ester bonds
+GO:0009055	F	0.01	electron carrier activity
+GO:0008092	F	0.01	cytoskeletal protein binding
+GO:0005102	F	0.01	receptor binding

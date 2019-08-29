@@ -1,0 +1,10 @@
+GO:0044699	P	0.13	single-organism process
+GO:0044763	P	0.04	single-organism cellular process
+GO:0006810	P	0.04	transport
+GO:0065008	P	0.03	regulation of biological quality
+GO:0034220	P	0.03	ion transmembrane transport
+GO:0006812	P	0.03	cation transport
+GO:0015991	P	0.02	ATP hydrolysis coupled proton transport
+GO:0007035	P	0.02	vacuolar acidification
+GO:0090383	P	0.01	phagosome acidification
+GO:0071555	P	0.01	cell wall organization

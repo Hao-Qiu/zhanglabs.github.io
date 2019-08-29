@@ -1,0 +1,10 @@
+GO:0040011	P	0.17	locomotion
+GO:0001539	P	0.06	cilium or flagellum-dependent cell motility
+GO:0042330	P	0.05	taxis
+GO:0050896	P	0.03	response to stimulus
+GO:0071978	P	0.02	bacterial-type flagellum-dependent swarming motility
+GO:0042221	P	0.02	response to chemical
+GO:0006810	P	0.02	transport
+GO:0072488	P	0.01	ammonium transmembrane transport
+GO:0051301	P	0.01	cell division
+GO:0046718	P	0.01	viral entry into host cell

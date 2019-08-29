@@ -1,0 +1,10 @@
+GO:0003824	F	0.54	catalytic activity
+GO:0016787	F	0.13	hydrolase activity
+GO:0004386	F	0.04	helicase activity
+GO:0008026	F	0.03	ATP-dependent helicase activity
+GO:0004004	F	0.02	ATP-dependent RNA helicase activity
+GO:0043621	F	0.01	protein self-association
+GO:0043141	F	0.01	ATP-dependent 5'-3' DNA helicase activity
+GO:0043022	F	0.01	ribosome binding
+GO:0042162	F	0.01	telomeric DNA binding
+GO:0032575	F	0.01	ATP-dependent 5'-3' RNA helicase activity

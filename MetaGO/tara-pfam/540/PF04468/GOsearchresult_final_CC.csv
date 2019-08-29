@@ -1,0 +1,10 @@
+GO:0044424	C	1.00	intracellular part
+GO:0044444	C	0.92	cytoplasmic part
+GO:0005829	C	0.65	cytosol
+GO:0043226	C	0.54	organelle
+GO:0043229	C	0.48	intracellular organelle
+GO:0043227	C	0.34	membrane-bounded organelle
+GO:0043231	C	0.27	intracellular membrane-bounded organelle
+GO:0005737	C	0.06	cytoplasm
+GO:0044446	C	0.03	intracellular organelle part
+GO:0043234	C	0.03	protein complex

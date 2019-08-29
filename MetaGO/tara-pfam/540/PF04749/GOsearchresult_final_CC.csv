@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0044424	C	0.96	intracellular part
+GO:0044444	C	0.68	cytoplasmic part
+GO:0043227	C	0.54	membrane-bounded organelle
+GO:0043231	C	0.50	intracellular membrane-bounded organelle
+GO:0016020	C	0.15	membrane
+GO:0009536	C	0.06	plastid
+GO:0005887	C	0.04	integral component of plasma membrane
+GO:0005886	C	0.04	plasma membrane
+GO:0005737	C	0.04	cytoplasm

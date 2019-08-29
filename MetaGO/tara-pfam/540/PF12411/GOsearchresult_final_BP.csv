@@ -1,0 +1,13 @@
+GO:0009987	P	0.99	cellular process
+GO:0008152	P	0.99	metabolic process
+GO:0044237	P	0.98	cellular metabolic process
+GO:0071704	P	0.71	organic substance metabolic process
+GO:0044699	P	0.60	single-organism process
+GO:0044238	P	0.45	primary metabolic process
+GO:0044763	P	0.33	single-organism cellular process
+GO:0044710	P	0.33	single-organism metabolic process
+GO:0044281	P	0.18	small molecule metabolic process
+GO:0006790	P	0.16	sulfur compound metabolic process
+GO:0009058	P	0.10	biosynthetic process
+GO:1901576	P	0.09	organic substance biosynthetic process
+GO:0044249	P	0.09	cellular biosynthetic process

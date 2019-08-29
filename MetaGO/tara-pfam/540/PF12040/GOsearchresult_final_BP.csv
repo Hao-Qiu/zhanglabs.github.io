@@ -1,0 +1,10 @@
+GO:0006810	P	0.34	transport
+GO:0055085	P	0.05	transmembrane transport
+GO:0015672	P	0.02	monovalent inorganic cation transport
+GO:0006818	P	0.02	hydrogen transport
+GO:1902995	P	0.01	positive regulation of phospholipid efflux
+GO:1902430	P	0.01	negative regulation of beta-amyloid formation
+GO:1901076	P	0.01	positive regulation of engulfment of apoptotic cell
+GO:1900223	P	0.01	positive regulation of beta-amyloid clearance
+GO:0070374	P	0.01	positive regulation of ERK1 and ERK2 cascade
+GO:0045727	P	0.01	positive regulation of translation

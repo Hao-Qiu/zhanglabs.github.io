@@ -1,0 +1,10 @@
+GO:0009987	P	0.33	cellular process
+GO:0090304	P	0.31	nucleic acid metabolic process
+GO:0006259	P	0.17	DNA metabolic process
+GO:0034645	P	0.09	cellular macromolecule biosynthetic process
+GO:0022402	P	0.08	cell cycle process
+GO:0006260	P	0.08	DNA replication
+GO:0065007	P	0.05	biological regulation
+GO:0006996	P	0.04	organelle organization
+GO:0000724	P	0.04	double-strand break repair via homologous recombination
+GO:1902589	P	0.03	single-organism organelle organization

@@ -1,0 +1,10 @@
+GO:0016020	C	0.99	membrane
+GO:0005886	C	0.98	plasma membrane
+GO:0005618	C	0.30	cell wall
+GO:0005829	C	0.09	cytosol
+GO:0016021	C	0.08	integral component of membrane
+GO:0005576	C	0.03	extracellular region
+GO:0070469	C	0.02	respiratory chain
+GO:0005887	C	0.02	integral component of plasma membrane
+GO:0098796	C	0.01	membrane protein complex
+GO:0070069	C	0.01	cytochrome complex

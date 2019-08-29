@@ -1,0 +1,17 @@
+GO:0009987	P	0.90	cellular process
+GO:0044699	P	0.81	single-organism process
+GO:0044763	P	0.60	single-organism cellular process
+GO:0051179	P	0.57	localization
+GO:0008152	P	0.57	metabolic process
+GO:0006810	P	0.56	transport
+GO:0065007	P	0.44	biological regulation
+GO:0071704	P	0.39	organic substance metabolic process
+GO:0055085	P	0.26	transmembrane transport
+GO:0044238	P	0.22	primary metabolic process
+GO:0065008	P	0.21	regulation of biological quality
+GO:0042592	P	0.18	homeostatic process
+GO:0048878	P	0.17	chemical homeostasis
+GO:0019725	P	0.17	cellular homeostasis
+GO:0046916	P	0.16	cellular transition metal ion homeostasis
+GO:0006879	P	0.14	cellular iron ion homeostasis
+GO:0044237	P	0.10	cellular metabolic process

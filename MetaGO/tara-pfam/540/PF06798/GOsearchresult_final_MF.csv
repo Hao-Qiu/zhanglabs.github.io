@@ -1,0 +1,10 @@
+GO:0003824	F	1.00	catalytic activity
+GO:0016740	F	0.60	transferase activity
+GO:0016772	F	0.29	transferase activity, transferring phosphorus-containing groups
+GO:0016773	F	0.28	phosphotransferase activity, alcohol group as acceptor
+GO:0004672	F	0.26	protein kinase activity
+GO:0016787	F	0.13	hydrolase activity
+GO:0004553	F	0.03	hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:0090599	F	0.02	alpha-glucosidase activity
+GO:0097367	F	0.01	carbohydrate derivative binding
+GO:0043167	F	0.01	ion binding

@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	0.99	membrane
+GO:0005886	C	0.93	plasma membrane
+GO:0030312	C	0.70	external encapsulating structure
+GO:0005618	C	0.68	cell wall
+GO:0005576	C	0.23	extracellular region
+GO:0005829	C	0.09	cytosol
+GO:0046930	C	0.04	pore complex
+GO:0009279	C	0.03	cell outer membrane
+GO:0005739	C	0.02	mitochondrion

@@ -1,0 +1,10 @@
+GO:0003824	F	0.78	catalytic activity
+GO:0016829	F	0.05	lyase activity
+GO:0016787	F	0.04	hydrolase activity
+GO:0050662	F	0.01	coenzyme binding
+GO:0043167	F	0.01	ion binding
+GO:0042626	F	0.01	ATPase activity, coupled to transmembrane movement of substances
+GO:0019172	F	0.01	glyoxalase III activity
+GO:0016810	F	0.01	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0016491	F	0.01	oxidoreductase activity
+GO:0015145	F	0.01	monosaccharide transmembrane transporter activity

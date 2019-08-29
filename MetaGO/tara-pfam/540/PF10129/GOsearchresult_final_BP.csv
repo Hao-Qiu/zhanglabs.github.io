@@ -1,0 +1,22 @@
+GO:0009987	P	0.95	cellular process
+GO:0008152	P	0.92	metabolic process
+GO:0044237	P	0.87	cellular metabolic process
+GO:0071704	P	0.86	organic substance metabolic process
+GO:0044699	P	0.77	single-organism process
+GO:0044238	P	0.74	primary metabolic process
+GO:0044763	P	0.54	single-organism cellular process
+GO:0043170	P	0.52	macromolecule metabolic process
+GO:0044260	P	0.49	cellular macromolecule metabolic process
+GO:0044710	P	0.47	single-organism metabolic process
+GO:0005975	P	0.37	carbohydrate metabolic process
+GO:0044262	P	0.31	cellular carbohydrate metabolic process
+GO:0005976	P	0.30	polysaccharide metabolic process
+GO:0044264	P	0.29	cellular polysaccharide metabolic process
+GO:0009058	P	0.25	biosynthetic process
+GO:1901576	P	0.23	organic substance biosynthetic process
+GO:0044249	P	0.22	cellular biosynthetic process
+GO:0044711	P	0.21	single-organism biosynthetic process
+GO:0044723	P	0.12	single-organism carbohydrate metabolic process
+GO:0034645	P	0.11	cellular macromolecule biosynthetic process
+GO:0016051	P	0.10	carbohydrate biosynthetic process
+GO:0033692	P	0.09	cellular polysaccharide biosynthetic process

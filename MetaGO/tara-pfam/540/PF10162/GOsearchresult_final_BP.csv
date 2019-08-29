@@ -1,0 +1,27 @@
+GO:0009987	P	0.90	cellular process
+GO:0044699	P	0.81	single-organism process
+GO:0065007	P	0.76	biological regulation
+GO:0050789	P	0.68	regulation of biological process
+GO:0050794	P	0.66	regulation of cellular process
+GO:0044763	P	0.65	single-organism cellular process
+GO:0060255	P	0.33	regulation of macromolecule metabolic process
+GO:0080090	P	0.32	regulation of primary metabolic process
+GO:0031323	P	0.30	regulation of cellular metabolic process
+GO:0048518	P	0.27	positive regulation of biological process
+GO:0048522	P	0.26	positive regulation of cellular process
+GO:0008152	P	0.19	metabolic process
+GO:0071704	P	0.18	organic substance metabolic process
+GO:0065008	P	0.17	regulation of biological quality
+GO:0032502	P	0.17	developmental process
+GO:0051246	P	0.16	regulation of protein metabolic process
+GO:0032268	P	0.14	regulation of cellular protein metabolic process
+GO:0065009	P	0.13	regulation of molecular function
+GO:0044767	P	0.13	single-organism developmental process
+GO:0048856	P	0.11	anatomical structure development
+GO:0071840	P	0.10	cellular component organization or biogenesis
+GO:0051128	P	0.10	regulation of cellular component organization
+GO:0031399	P	0.10	regulation of protein modification process
+GO:0050896	P	0.09	response to stimulus
+GO:0044237	P	0.09	cellular metabolic process
+GO:0016043	P	0.09	cellular component organization
+GO:0001932	P	0.09	regulation of protein phosphorylation

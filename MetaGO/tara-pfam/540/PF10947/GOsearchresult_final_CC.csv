@@ -1,0 +1,10 @@
+GO:0044464	C	0.98	cell part
+GO:0016020	C	0.96	membrane
+GO:0005886	C	0.25	plasma membrane
+GO:0016021	C	0.04	integral component of membrane
+GO:0005622	C	0.04	intracellular
+GO:0044444	C	0.03	cytoplasmic part
+GO:0009279	C	0.02	cell outer membrane
+GO:0070062	C	0.01	extracellular exosome
+GO:0044463	C	0.01	cell projection part
+GO:0044430	C	0.01	cytoskeletal part

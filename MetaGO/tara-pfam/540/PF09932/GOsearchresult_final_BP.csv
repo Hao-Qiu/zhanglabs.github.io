@@ -1,0 +1,10 @@
+GO:0098739	P	0.02	import across plasma membrane
+GO:0090662	P	0.02	ATP hydrolysis coupled transmembrane transport
+GO:0071805	P	0.02	potassium ion transmembrane transport
+GO:0071436	P	0.02	sodium ion export
+GO:0055078	P	0.02	sodium ion homeostasis
+GO:0055075	P	0.02	potassium ion homeostasis
+GO:0042391	P	0.02	regulation of membrane potential
+GO:0030004	P	0.02	cellular monovalent inorganic cation homeostasis
+GO:0015988	P	0.02	energy coupled proton transmembrane transport, against electrochemical gradient
+GO:0010959	P	0.02	regulation of metal ion transport

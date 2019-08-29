@@ -1,0 +1,16 @@
+GO:0009987	P	0.88	cellular process
+GO:0008152	P	0.82	metabolic process
+GO:0044699	P	0.81	single-organism process
+GO:0071704	P	0.76	organic substance metabolic process
+GO:0044237	P	0.76	cellular metabolic process
+GO:0044763	P	0.67	single-organism cellular process
+GO:0044710	P	0.59	single-organism metabolic process
+GO:0044238	P	0.54	primary metabolic process
+GO:0006807	P	0.22	nitrogen compound metabolic process
+GO:0006629	P	0.19	lipid metabolic process
+GO:0044255	P	0.18	cellular lipid metabolic process
+GO:0009056	P	0.14	catabolic process
+GO:1901575	P	0.13	organic substance catabolic process
+GO:0044248	P	0.13	cellular catabolic process
+GO:0044712	P	0.12	single-organism catabolic process
+GO:0009058	P	0.09	biosynthetic process

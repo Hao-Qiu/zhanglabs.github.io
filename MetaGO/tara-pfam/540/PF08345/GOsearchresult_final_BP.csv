@@ -1,0 +1,11 @@
+GO:0040011	P	0.80	locomotion
+GO:0006935	P	0.34	chemotaxis
+GO:0009987	P	0.30	cellular process
+GO:0051704	P	0.22	multi-organism process
+GO:0051701	P	0.19	interaction with host
+GO:0052143	P	0.18	chemotaxis on or near host involved in symbiotic interaction
+GO:0008152	P	0.18	metabolic process
+GO:0044699	P	0.14	single-organism process
+GO:0071704	P	0.13	organic substance metabolic process
+GO:0044763	P	0.12	single-organism cellular process
+GO:0044238	P	0.11	primary metabolic process

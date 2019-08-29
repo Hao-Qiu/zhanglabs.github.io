@@ -1,0 +1,10 @@
+GO:0003824	F	0.97	catalytic activity
+GO:0016740	F	0.96	transferase activity
+GO:0016407	F	0.48	acetyltransferase activity
+GO:0004402	F	0.46	histone acetyltransferase activity
+GO:0003676	F	0.17	nucleic acid binding
+GO:0003677	F	0.07	DNA binding
+GO:0043169	F	0.03	cation binding
+GO:0044877	F	0.02	macromolecular complex binding
+GO:0016758	F	0.02	transferase activity, transferring hexosyl groups
+GO:0070577	F	0.01	lysine-acetylated histone binding

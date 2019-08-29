@@ -1,0 +1,10 @@
+GO:0003824	F	0.87	catalytic activity
+GO:0005215	F	0.33	transporter activity
+GO:0022857	F	0.28	transmembrane transporter activity
+GO:0022891	F	0.24	substrate-specific transmembrane transporter activity
+GO:1901363	F	0.13	heterocyclic compound binding
+GO:0097159	F	0.13	organic cyclic compound binding
+GO:0016491	F	0.11	oxidoreductase activity
+GO:0009055	F	0.07	electron carrier activity
+GO:0046914	F	0.06	transition metal ion binding
+GO:0016676	F	0.06	oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor

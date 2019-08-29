@@ -1,0 +1,10 @@
+GO:1901363	F	0.99	heterocyclic compound binding
+GO:0097159	F	0.99	organic cyclic compound binding
+GO:0003723	F	0.97	RNA binding
+GO:0044822	F	0.84	poly(A) RNA binding
+GO:0003824	F	0.07	catalytic activity
+GO:0050662	F	0.02	coenzyme binding
+GO:0046872	F	0.02	metal ion binding
+GO:0016614	F	0.02	oxidoreductase activity, acting on CH-OH group of donors
+GO:0003729	F	0.02	mRNA binding
+GO:0000166	F	0.02	nucleotide binding

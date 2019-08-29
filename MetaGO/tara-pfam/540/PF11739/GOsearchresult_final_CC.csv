@@ -1,0 +1,10 @@
+GO:0044464	C	0.98	cell part
+GO:0016020	C	0.75	membrane
+GO:0005886	C	0.26	plasma membrane
+GO:0044444	C	0.05	cytoplasmic part
+GO:0005829	C	0.03	cytosol
+GO:1990234	C	0.01	transferase complex
+GO:0032587	C	0.01	ruffle membrane
+GO:0030288	C	0.01	outer membrane-bounded periplasmic space
+GO:0016021	C	0.01	integral component of membrane
+GO:0009279	C	0.01	cell outer membrane

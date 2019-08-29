@@ -1,0 +1,19 @@
+GO:0009987	P	0.74	cellular process
+GO:0040007	P	0.63	growth
+GO:0044237	P	0.60	cellular metabolic process
+GO:0071704	P	0.58	organic substance metabolic process
+GO:0044699	P	0.43	single-organism process
+GO:0044238	P	0.38	primary metabolic process
+GO:0006807	P	0.38	nitrogen compound metabolic process
+GO:0044763	P	0.35	single-organism cellular process
+GO:1901360	P	0.34	organic cyclic compound metabolic process
+GO:0006725	P	0.32	cellular aromatic compound metabolic process
+GO:0044710	P	0.31	single-organism metabolic process
+GO:0034641	P	0.31	cellular nitrogen compound metabolic process
+GO:0046483	P	0.28	heterocycle metabolic process
+GO:0006139	P	0.25	nucleobase-containing compound metabolic process
+GO:0044281	P	0.21	small molecule metabolic process
+GO:1901135	P	0.17	carbohydrate derivative metabolic process
+GO:1901564	P	0.13	organonitrogen compound metabolic process
+GO:0019637	P	0.10	organophosphate metabolic process
+GO:0006796	P	0.10	phosphate-containing compound metabolic process

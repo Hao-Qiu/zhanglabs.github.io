@@ -1,0 +1,6 @@
+GO:0051540	F	0.05	metal cluster binding
+GO:0050662	F	0.05	coenzyme binding
+GO:0046914	F	0.05	transition metal ion binding
+GO:0016726	F	0.05	oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor
+GO:0000166	F	0.05	nucleotide binding
+GO:0016727	F	0.02	oxidoreductase activity, acting on CH or CH2 groups, oxygen as acceptor

@@ -1,0 +1,10 @@
+GO:0044464	C	0.94	cell part
+GO:0016020	C	0.87	membrane
+GO:0005886	C	0.48	plasma membrane
+GO:0031224	C	0.16	intrinsic component of membrane
+GO:0016021	C	0.14	integral component of membrane
+GO:0044444	C	0.06	cytoplasmic part
+GO:0005829	C	0.03	cytosol
+GO:0043190	C	0.01	ATP-binding cassette (ABC) transporter complex
+GO:0030288	C	0.01	outer membrane-bounded periplasmic space
+GO:0016324	C	0.01	apical plasma membrane

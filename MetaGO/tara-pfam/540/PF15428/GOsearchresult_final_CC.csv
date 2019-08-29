@@ -1,0 +1,10 @@
+GO:0044464	C	0.84	cell part
+GO:0005829	C	0.62	cytosol
+GO:0016020	C	0.47	membrane
+GO:0044425	C	0.25	membrane part
+GO:0016021	C	0.20	integral component of membrane
+GO:0005886	C	0.07	plasma membrane
+GO:0044459	C	0.03	plasma membrane part
+GO:0070469	C	0.02	respiratory chain
+GO:0005887	C	0.02	integral component of plasma membrane
+GO:0098796	C	0.01	membrane protein complex

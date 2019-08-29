@@ -1,0 +1,10 @@
+GO:0044699	P	0.98	single-organism process
+GO:0006810	P	0.94	transport
+GO:0044765	P	0.88	single-organism transport
+GO:0009987	P	0.87	cellular process
+GO:0044763	P	0.69	single-organism cellular process
+GO:0071702	P	0.50	organic substance transport
+GO:0015031	P	0.37	protein transport
+GO:0009306	P	0.36	protein secretion
+GO:0065007	P	0.08	biological regulation
+GO:1901678	P	0.04	iron coordination entity transport

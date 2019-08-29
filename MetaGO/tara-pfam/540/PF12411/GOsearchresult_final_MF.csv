@@ -1,0 +1,10 @@
+GO:0003824	F	1.00	catalytic activity
+GO:0016787	F	0.53	hydrolase activity
+GO:0016788	F	0.38	hydrolase activity, acting on ester bonds
+GO:0008484	F	0.33	sulfuric ester hydrolase activity
+GO:0047753	F	0.31	choline-sulfatase activity
+GO:0016740	F	0.07	transferase activity
+GO:0036094	F	0.05	small molecule binding
+GO:0016747	F	0.04	transferase activity, transferring acyl groups other than amino-acyl groups
+GO:0072341	F	0.03	modified amino acid binding
+GO:0033218	F	0.03	amide binding

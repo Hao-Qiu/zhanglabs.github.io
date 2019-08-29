@@ -1,0 +1,10 @@
+GO:0044424	C	1.00	intracellular part
+GO:0044444	C	0.99	cytoplasmic part
+GO:0005737	C	0.59	cytoplasm
+GO:0005829	C	0.41	cytosol
+GO:0005739	C	0.14	mitochondrion
+GO:0016020	C	0.11	membrane
+GO:0044446	C	0.04	intracellular organelle part
+GO:0044429	C	0.03	mitochondrial part
+GO:1990204	C	0.01	oxidoreductase complex
+GO:0042645	C	0.01	mitochondrial nucleoid

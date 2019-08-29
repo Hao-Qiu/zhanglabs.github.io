@@ -1,0 +1,14 @@
+GO:0009987	P	0.75	cellular process
+GO:0051179	P	0.68	localization
+GO:0051234	P	0.65	establishment of localization
+GO:0006810	P	0.64	transport
+GO:0044699	P	0.47	single-organism process
+GO:0065007	P	0.35	biological regulation
+GO:0016192	P	0.35	vesicle-mediated transport
+GO:0044763	P	0.28	single-organism cellular process
+GO:0048193	P	0.20	Golgi vesicle transport
+GO:0051641	P	0.16	cellular localization
+GO:0051649	P	0.14	establishment of localization in cell
+GO:0050789	P	0.13	regulation of biological process
+GO:0046907	P	0.12	intracellular transport
+GO:0050794	P	0.09	regulation of cellular process

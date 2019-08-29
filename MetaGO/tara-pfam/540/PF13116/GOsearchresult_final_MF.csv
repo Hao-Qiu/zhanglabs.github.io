@@ -1,0 +1,10 @@
+GO:0003824	F	0.15	catalytic activity
+GO:0016787	F	0.03	hydrolase activity
+GO:0097367	F	0.01	carbohydrate derivative binding
+GO:0046872	F	0.01	metal ion binding
+GO:0042802	F	0.01	identical protein binding
+GO:0022892	F	0.01	substrate-specific transporter activity
+GO:0022857	F	0.01	transmembrane transporter activity
+GO:0016879	F	0.01	ligase activity, forming carbon-nitrogen bonds
+GO:0016788	F	0.01	hydrolase activity, acting on ester bonds
+GO:0016779	F	0.01	nucleotidyltransferase activity

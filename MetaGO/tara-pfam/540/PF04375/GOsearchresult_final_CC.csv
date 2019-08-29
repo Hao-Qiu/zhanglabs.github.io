@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	0.73	membrane
+GO:0005829	C	0.73	cytosol
+GO:0005886	C	0.24	plasma membrane
+GO:0044425	C	0.06	membrane part
+GO:0044459	C	0.05	plasma membrane part
+GO:0043232	C	0.02	intracellular non-membrane-bounded organelle
+GO:0009279	C	0.02	cell outer membrane
+GO:0005887	C	0.02	integral component of plasma membrane
+GO:0043234	C	0.01	protein complex

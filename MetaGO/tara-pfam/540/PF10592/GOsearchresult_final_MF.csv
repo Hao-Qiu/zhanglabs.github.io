@@ -1,0 +1,10 @@
+GO:0003697	F	0.85	single-stranded DNA binding
+GO:0043565	F	0.02	sequence-specific DNA binding
+GO:0016787	F	0.02	hydrolase activity
+GO:0003723	F	0.02	RNA binding
+GO:0003682	F	0.02	chromatin binding
+GO:1990837	F	0.01	sequence-specific double-stranded DNA binding
+GO:0043138	F	0.01	3'-5' DNA helicase activity
+GO:0035639	F	0.01	purine ribonucleoside triphosphate binding
+GO:0032559	F	0.01	adenyl ribonucleotide binding
+GO:0032550	F	0.01	purine ribonucleoside binding

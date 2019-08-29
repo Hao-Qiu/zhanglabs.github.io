@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	0.77	membrane
+GO:0005886	C	0.68	plasma membrane
+GO:0005829	C	0.16	cytosol
+GO:0044422	C	0.04	organelle part
+GO:0044461	C	0.02	bacterial-type flagellum part
+GO:0042995	C	0.02	cell projection
+GO:0044430	C	0.01	cytoskeletal part
+GO:0009425	C	0.01	bacterial-type flagellum basal body
+GO:0009424	C	0.01	bacterial-type flagellum hook

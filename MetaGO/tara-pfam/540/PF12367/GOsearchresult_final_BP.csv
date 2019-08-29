@@ -1,0 +1,10 @@
+GO:0044710	P	0.11	single-organism metabolic process
+GO:0044763	P	0.09	single-organism cellular process
+GO:0006091	P	0.08	generation of precursor metabolites and energy
+GO:0006082	P	0.07	organic acid metabolic process
+GO:0044711	P	0.05	single-organism biosynthetic process
+GO:0006979	P	0.05	response to oxidative stress
+GO:0006090	P	0.05	pyruvate metabolic process
+GO:0006085	P	0.05	acetyl-CoA biosynthetic process
+GO:0055114	P	0.04	oxidation-reduction process
+GO:0070814	P	0.01	hydrogen sulfide biosynthetic process

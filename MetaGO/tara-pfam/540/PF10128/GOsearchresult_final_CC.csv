@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0016020	C	0.85	membrane
+GO:0005886	C	0.84	plasma membrane
+GO:0005829	C	0.37	cytosol
+GO:0005618	C	0.19	cell wall
+GO:0005737	C	0.04	cytoplasm
+GO:0043231	C	0.03	intracellular membrane-bounded organelle
+GO:0005634	C	0.02	nucleus
+GO:0070062	C	0.01	extracellular exosome
+GO:0042597	C	0.01	periplasmic space

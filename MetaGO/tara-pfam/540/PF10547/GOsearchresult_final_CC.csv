@@ -1,0 +1,10 @@
+GO:0044464	C	0.99	cell part
+GO:0044424	C	0.89	intracellular part
+GO:0044423	C	0.65	virion part
+GO:0019038	C	0.64	provirus
+GO:0016020	C	0.12	membrane
+GO:0005886	C	0.10	plasma membrane
+GO:0005737	C	0.03	cytoplasm
+GO:0005829	C	0.02	cytosol
+GO:0005634	C	0.02	nucleus
+GO:0048476	C	0.01	Holliday junction resolvase complex

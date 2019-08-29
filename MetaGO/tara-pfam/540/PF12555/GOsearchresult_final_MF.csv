@@ -1,0 +1,10 @@
+GO:0003824	F	1.00	catalytic activity
+GO:0016740	F	0.96	transferase activity
+GO:0016772	F	0.38	transferase activity, transferring phosphorus-containing groups
+GO:0004788	F	0.24	thiamine diphosphokinase activity
+GO:0048037	F	0.09	cofactor binding
+GO:0016757	F	0.09	transferase activity, transferring glycosyl groups
+GO:0043167	F	0.08	ion binding
+GO:0016758	F	0.08	transferase activity, transferring hexosyl groups
+GO:0043168	F	0.06	anion binding
+GO:0004645	F	0.05	phosphorylase activity

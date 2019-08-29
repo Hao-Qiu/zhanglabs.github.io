@@ -1,0 +1,10 @@
+GO:0003824	F	0.96	catalytic activity
+GO:0016491	F	0.70	oxidoreductase activity
+GO:0016667	F	0.34	oxidoreductase activity, acting on a sulfur group of donors
+GO:0043831	F	0.30	thiosulfate dehydrogenase (quinone) activity
+GO:0005215	F	0.05	transporter activity
+GO:0022892	F	0.03	substrate-specific transporter activity
+GO:0022857	F	0.03	transmembrane transporter activity
+GO:0022891	F	0.02	substrate-specific transmembrane transporter activity
+GO:0050662	F	0.01	coenzyme binding
+GO:0046872	F	0.01	metal ion binding

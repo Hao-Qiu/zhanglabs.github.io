@@ -1,0 +1,16 @@
+GO:0009987	P	0.86	cellular process
+GO:0008152	P	0.62	metabolic process
+GO:0006810	P	0.62	transport
+GO:0044699	P	0.58	single-organism process
+GO:0071704	P	0.53	organic substance metabolic process
+GO:0044237	P	0.47	cellular metabolic process
+GO:0044763	P	0.37	single-organism cellular process
+GO:0044238	P	0.18	primary metabolic process
+GO:0006811	P	0.17	ion transport
+GO:0006807	P	0.16	nitrogen compound metabolic process
+GO:0055085	P	0.14	transmembrane transport
+GO:0044710	P	0.13	single-organism metabolic process
+GO:0030001	P	0.13	metal ion transport
+GO:0050896	P	0.11	response to stimulus
+GO:0098662	P	0.09	inorganic cation transmembrane transport
+GO:0000041	P	0.09	transition metal ion transport

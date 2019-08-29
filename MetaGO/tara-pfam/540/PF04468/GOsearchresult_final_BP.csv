@@ -1,0 +1,23 @@
+GO:0009987	P	0.99	cellular process
+GO:0008152	P	0.95	metabolic process
+GO:0071704	P	0.93	organic substance metabolic process
+GO:0044238	P	0.91	primary metabolic process
+GO:0044237	P	0.91	cellular metabolic process
+GO:0043170	P	0.67	macromolecule metabolic process
+GO:0044260	P	0.65	cellular macromolecule metabolic process
+GO:0006807	P	0.64	nitrogen compound metabolic process
+GO:0034641	P	0.62	cellular nitrogen compound metabolic process
+GO:1901360	P	0.58	organic cyclic compound metabolic process
+GO:0046483	P	0.58	heterocycle metabolic process
+GO:0006139	P	0.57	nucleobase-containing compound metabolic process
+GO:0090304	P	0.38	nucleic acid metabolic process
+GO:0044699	P	0.26	single-organism process
+GO:0016070	P	0.23	RNA metabolic process
+GO:0043412	P	0.22	macromolecule modification
+GO:0034660	P	0.18	ncRNA metabolic process
+GO:0006396	P	0.18	RNA processing
+GO:0044763	P	0.16	single-organism cellular process
+GO:0034470	P	0.15	ncRNA processing
+GO:0006364	P	0.14	rRNA processing
+GO:0000455	P	0.13	enzyme-directed rRNA pseudouridine synthesis
+GO:0065007	P	0.09	biological regulation

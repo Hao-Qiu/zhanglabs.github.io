@@ -1,0 +1,21 @@
+GO:0009987	P	0.82	cellular process
+GO:0008152	P	0.78	metabolic process
+GO:0006807	P	0.51	nitrogen compound metabolic process
+GO:0071704	P	0.43	organic substance metabolic process
+GO:0044237	P	0.43	cellular metabolic process
+GO:0065007	P	0.42	biological regulation
+GO:0044699	P	0.27	single-organism process
+GO:0016043	P	0.25	cellular component organization
+GO:0006996	P	0.23	organelle organization
+GO:0051179	P	0.22	localization
+GO:0044238	P	0.21	primary metabolic process
+GO:0006810	P	0.21	transport
+GO:0034641	P	0.18	cellular nitrogen compound metabolic process
+GO:0044763	P	0.14	single-organism cellular process
+GO:0043170	P	0.13	macromolecule metabolic process
+GO:0043085	P	0.13	positive regulation of catalytic activity
+GO:0051345	P	0.12	positive regulation of hydrolase activity
+GO:0044260	P	0.12	cellular macromolecule metabolic process
+GO:0050789	P	0.11	regulation of biological process
+GO:0050794	P	0.10	regulation of cellular process
+GO:0050896	P	0.09	response to stimulus

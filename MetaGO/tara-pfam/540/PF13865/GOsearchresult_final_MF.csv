@@ -1,0 +1,10 @@
+GO:0003676	F	0.98	nucleic acid binding
+GO:0003723	F	0.44	RNA binding
+GO:0044822	F	0.36	poly(A) RNA binding
+GO:0003677	F	0.35	DNA binding
+GO:0043565	F	0.34	sequence-specific DNA binding
+GO:0008327	F	0.31	methyl-CpG binding
+GO:0003824	F	0.05	catalytic activity
+GO:0016274	F	0.04	protein-arginine N-methyltransferase activity
+GO:0035242	F	0.03	protein-arginine omega-N asymmetric methyltransferase activity
+GO:0008469	F	0.03	histone-arginine N-methyltransferase activity

@@ -1,0 +1,10 @@
+GO:0044699	P	0.30	single-organism process
+GO:0006812	P	0.07	cation transport
+GO:0055065	P	0.06	metal ion homeostasis
+GO:0030001	P	0.06	metal ion transport
+GO:0044710	P	0.05	single-organism metabolic process
+GO:0006875	P	0.05	cellular metal ion homeostasis
+GO:0098662	P	0.04	inorganic cation transmembrane transport
+GO:0006878	P	0.03	cellular copper ion homeostasis
+GO:0006825	P	0.03	copper ion transport
+GO:0060003	P	0.02	copper ion export

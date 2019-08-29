@@ -1,0 +1,13 @@
+GO:0009987	P	0.88	cellular process
+GO:0008152	P	0.87	metabolic process
+GO:0071704	P	0.80	organic substance metabolic process
+GO:0044237	P	0.80	cellular metabolic process
+GO:0044699	P	0.76	single-organism process
+GO:0044238	P	0.70	primary metabolic process
+GO:0044763	P	0.52	single-organism cellular process
+GO:0044710	P	0.49	single-organism metabolic process
+GO:0044255	P	0.26	cellular lipid metabolic process
+GO:0006720	P	0.22	isoprenoid metabolic process
+GO:0006721	P	0.18	terpenoid metabolic process
+GO:0042574	P	0.14	retinal metabolic process
+GO:0051234	P	0.12	establishment of localization

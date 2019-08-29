@@ -1,0 +1,10 @@
+GO:0009987	P	0.98	cellular process
+GO:0051704	P	0.93	multi-organism process
+GO:0044764	P	0.89	multi-organism cellular process
+GO:0016032	P	0.86	viral process
+GO:0016043	P	0.77	cellular component organization
+GO:0022607	P	0.73	cellular component assembly
+GO:0019068	P	0.61	virion assembly
+GO:0044699	P	0.03	single-organism process
+GO:0008152	P	0.03	metabolic process
+GO:0071704	P	0.02	organic substance metabolic process

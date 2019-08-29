@@ -1,0 +1,16 @@
+GO:0044699	P	0.94	single-organism process
+GO:0009987	P	0.93	cellular process
+GO:0008152	P	0.92	metabolic process
+GO:0071704	P	0.90	organic substance metabolic process
+GO:0044238	P	0.85	primary metabolic process
+GO:0044237	P	0.70	cellular metabolic process
+GO:0044710	P	0.67	single-organism metabolic process
+GO:0044763	P	0.57	single-organism cellular process
+GO:0006793	P	0.21	phosphorus metabolic process
+GO:0005975	P	0.21	carbohydrate metabolic process
+GO:0044723	P	0.20	single-organism carbohydrate metabolic process
+GO:0006796	P	0.16	phosphate-containing compound metabolic process
+GO:0065007	P	0.15	biological regulation
+GO:0016310	P	0.13	phosphorylation
+GO:0043170	P	0.11	macromolecule metabolic process
+GO:0016043	P	0.09	cellular component organization

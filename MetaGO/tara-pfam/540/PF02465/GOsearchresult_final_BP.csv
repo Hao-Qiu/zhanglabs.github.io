@@ -1,0 +1,10 @@
+GO:0009987	P	0.95	cellular process
+GO:0044699	P	0.90	single-organism process
+GO:0044763	P	0.86	single-organism cellular process
+GO:0040011	P	0.84	locomotion
+GO:0071973	P	0.41	bacterial-type flagellum-dependent cell motility
+GO:0008152	P	0.09	metabolic process
+GO:0071704	P	0.08	organic substance metabolic process
+GO:0044238	P	0.07	primary metabolic process
+GO:0044237	P	0.07	cellular metabolic process
+GO:0006807	P	0.05	nitrogen compound metabolic process

@@ -1,0 +1,10 @@
+GO:1901363	F	0.74	heterocyclic compound binding
+GO:0097159	F	0.73	organic cyclic compound binding
+GO:0003697	F	0.30	single-stranded DNA binding
+GO:0016676	F	0.06	oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor
+GO:0015002	F	0.06	heme-copper terminal oxidase activity
+GO:0046914	F	0.05	transition metal ion binding
+GO:0046906	F	0.05	tetrapyrrole binding
+GO:0015078	F	0.05	hydrogen ion transmembrane transporter activity
+GO:0009055	F	0.05	electron carrier activity
+GO:0016662	F	0.03	oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor

@@ -1,0 +1,10 @@
+GO:0044464	C	0.96	cell part
+GO:0005829	C	0.70	cytosol
+GO:0016020	C	0.62	membrane
+GO:0005886	C	0.28	plasma membrane
+GO:0070062	C	0.02	extracellular exosome
+GO:0055036	C	0.02	virion membrane
+GO:0042025	C	0.02	host cell nucleus
+GO:0031904	C	0.02	endosome lumen
+GO:0030666	C	0.02	endocytic vesicle membrane
+GO:0019012	C	0.02	virion

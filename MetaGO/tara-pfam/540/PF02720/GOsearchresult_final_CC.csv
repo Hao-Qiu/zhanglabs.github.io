@@ -1,0 +1,10 @@
+GO:0044464	C	1.00	cell part
+GO:0005886	C	0.99	plasma membrane
+GO:0005618	C	0.92	cell wall
+GO:0005576	C	0.13	extracellular region
+GO:0005829	C	0.08	cytosol
+GO:0044459	C	0.03	plasma membrane part
+GO:0031988	C	0.03	membrane-bounded vesicle
+GO:0016021	C	0.03	integral component of membrane
+GO:0070062	C	0.02	extracellular exosome
+GO:0016324	C	0.02	apical plasma membrane

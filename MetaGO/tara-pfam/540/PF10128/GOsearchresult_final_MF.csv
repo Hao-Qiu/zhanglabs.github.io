@@ -1,0 +1,10 @@
+GO:0003824	F	0.93	catalytic activity
+GO:0016491	F	0.11	oxidoreductase activity
+GO:1901363	F	0.07	heterocyclic compound binding
+GO:0097159	F	0.07	organic cyclic compound binding
+GO:0016616	F	0.06	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0050662	F	0.04	coenzyme binding
+GO:0000166	F	0.04	nucleotide binding
+GO:0016740	F	0.03	transferase activity
+GO:0016853	F	0.02	isomerase activity
+GO:0051539	F	0.01	4 iron, 4 sulfur cluster binding

@@ -1,0 +1,10 @@
+GO:0005829	C	0.99	cytosol
+GO:0005856	C	0.02	cytoskeleton
+GO:0005737	C	0.02	cytoplasm
+GO:0042995	C	0.01	cell projection
+GO:0032432	C	0.01	actin filament bundle
+GO:0031011	C	0.01	Ino80 complex
+GO:0030479	C	0.01	actin cortical patch
+GO:0016586	C	0.01	RSC complex
+GO:0016514	C	0.01	SWI/SNF complex
+GO:0005886	C	0.01	plasma membrane

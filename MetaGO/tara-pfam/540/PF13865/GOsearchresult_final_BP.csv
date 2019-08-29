@@ -1,0 +1,38 @@
+GO:0065007	P	0.89	biological regulation
+GO:0050789	P	0.89	regulation of biological process
+GO:0050794	P	0.84	regulation of cellular process
+GO:0019222	P	0.84	regulation of metabolic process
+GO:0060255	P	0.83	regulation of macromolecule metabolic process
+GO:0008152	P	0.82	metabolic process
+GO:0080090	P	0.77	regulation of primary metabolic process
+GO:0031323	P	0.77	regulation of cellular metabolic process
+GO:0009987	P	0.52	cellular process
+GO:0044260	P	0.36	cellular macromolecule metabolic process
+GO:0044238	P	0.35	primary metabolic process
+GO:0048518	P	0.32	positive regulation of biological process
+GO:0048522	P	0.31	positive regulation of cellular process
+GO:0009893	P	0.29	positive regulation of metabolic process
+GO:0031325	P	0.28	positive regulation of cellular metabolic process
+GO:0010604	P	0.28	positive regulation of macromolecule metabolic process
+GO:0090304	P	0.18	nucleic acid metabolic process
+GO:0051179	P	0.18	localization
+GO:0032268	P	0.18	regulation of cellular protein metabolic process
+GO:0051649	P	0.17	establishment of localization in cell
+GO:0051641	P	0.17	cellular localization
+GO:0051128	P	0.17	regulation of cellular component organization
+GO:0006810	P	0.17	transport
+GO:0071702	P	0.16	organic substance transport
+GO:0046907	P	0.16	intracellular transport
+GO:0032270	P	0.15	positive regulation of cellular protein metabolic process
+GO:0031399	P	0.15	regulation of protein modification process
+GO:0016070	P	0.15	RNA metabolic process
+GO:0006406	P	0.15	mRNA export from nucleus
+GO:1902275	P	0.14	regulation of chromatin organization
+GO:0051130	P	0.14	positive regulation of cellular component organization
+GO:0044699	P	0.14	single-organism process
+GO:0042127	P	0.14	regulation of cell proliferation
+GO:0031401	P	0.14	positive regulation of protein modification process
+GO:0031062	P	0.13	positive regulation of histone methylation
+GO:0010468	P	0.13	regulation of gene expression
+GO:0008284	P	0.13	positive regulation of cell proliferation
+GO:0051171	P	0.09	regulation of nitrogen compound metabolic process

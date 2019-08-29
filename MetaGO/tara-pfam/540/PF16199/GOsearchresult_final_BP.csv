@@ -1,0 +1,41 @@
+GO:0009987	P	1.00	cellular process
+GO:0044260	P	0.97	cellular macromolecule metabolic process
+GO:0044238	P	0.97	primary metabolic process
+GO:0065007	P	0.90	biological regulation
+GO:0050789	P	0.90	regulation of biological process
+GO:0050794	P	0.87	regulation of cellular process
+GO:0019222	P	0.83	regulation of metabolic process
+GO:0060255	P	0.82	regulation of macromolecule metabolic process
+GO:0010468	P	0.81	regulation of gene expression
+GO:0031323	P	0.79	regulation of cellular metabolic process
+GO:0080090	P	0.78	regulation of primary metabolic process
+GO:0051252	P	0.77	regulation of RNA metabolic process
+GO:0009889	P	0.77	regulation of biosynthetic process
+GO:0006355	P	0.76	regulation of transcription, DNA-templated
+GO:1901360	P	0.62	organic cyclic compound metabolic process
+GO:0046483	P	0.62	heterocycle metabolic process
+GO:0034641	P	0.62	cellular nitrogen compound metabolic process
+GO:0006725	P	0.62	cellular aromatic compound metabolic process
+GO:0006139	P	0.61	nucleobase-containing compound metabolic process
+GO:0090304	P	0.60	nucleic acid metabolic process
+GO:0044249	P	0.59	cellular biosynthetic process
+GO:0009059	P	0.59	macromolecule biosynthetic process
+GO:0043412	P	0.57	macromolecule modification
+GO:0016070	P	0.48	RNA metabolic process
+GO:0044699	P	0.39	single-organism process
+GO:0006357	P	0.36	regulation of transcription from RNA polymerase II promoter
+GO:0006396	P	0.27	RNA processing
+GO:0016043	P	0.26	cellular component organization
+GO:0044763	P	0.25	single-organism cellular process
+GO:0034654	P	0.24	nucleobase-containing compound biosynthetic process
+GO:0034660	P	0.23	ncRNA metabolic process
+GO:0032774	P	0.23	RNA biosynthetic process
+GO:0034470	P	0.20	ncRNA processing
+GO:0043933	P	0.19	macromolecular complex subunit organization
+GO:0006325	P	0.17	chromatin organization
+GO:0009451	P	0.15	RNA modification
+GO:0006399	P	0.15	tRNA metabolic process
+GO:0006400	P	0.14	tRNA modification
+GO:0006354	P	0.14	DNA-templated transcription, elongation
+GO:0006368	P	0.13	transcription elongation from RNA polymerase II promoter
+GO:0002098	P	0.13	tRNA wobble uridine modification
