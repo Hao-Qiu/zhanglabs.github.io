@@ -1,0 +1,14 @@
+GO:0098796	C	1.00	membrane protein complex
+GO:0044429	C	1.00	mitochondrial part
+GO:1902494	C	0.99	catalytic complex
+GO:0098800	C	0.99	inner mitochondrial membrane protein complex
+GO:0098803	C	0.97	respiratory chain complex
+GO:1990204	C	0.94	oxidoreductase complex
+GO:0045271	C	0.88	respiratory chain complex I
+GO:0005747	C	0.86	mitochondrial respiratory chain complex I
+GO:0043227	C	0.84	membrane-bounded organelle
+GO:0043231	C	0.83	intracellular membrane-bounded organelle
+GO:0005739	C	0.78	mitochondrion
+GO:0016020	C	0.32	membrane
+GO:0031966	C	0.29	mitochondrial membrane
+GO:0005743	C	0.20	mitochondrial inner membrane

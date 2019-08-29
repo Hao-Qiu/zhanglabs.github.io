@@ -1,0 +1,10 @@
+GO:0044444	C	1.00	cytoplasmic part
+GO:0044435	C	0.98	plastid part
+GO:0044434	C	0.97	chloroplast part
+GO:0009536	C	0.91	plastid
+GO:0016020	C	0.89	membrane
+GO:0009507	C	0.81	chloroplast
+GO:0009941	C	0.44	chloroplast envelope
+GO:0044436	C	0.18	thylakoid part
+GO:0042651	C	0.13	thylakoid membrane
+GO:0055035	C	0.11	plastid thylakoid membrane

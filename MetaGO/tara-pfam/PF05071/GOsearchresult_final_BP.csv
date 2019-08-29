@@ -1,0 +1,19 @@
+GO:0009987	P	0.98	cellular process
+GO:0044699	P	0.94	single-organism process
+GO:0044763	P	0.92	single-organism cellular process
+GO:0008152	P	0.85	metabolic process
+GO:0044237	P	0.84	cellular metabolic process
+GO:0044710	P	0.67	single-organism metabolic process
+GO:0050896	P	0.53	response to stimulus
+GO:0006091	P	0.48	generation of precursor metabolites and energy
+GO:0055114	P	0.45	oxidation-reduction process
+GO:0022904	P	0.28	respiratory electron transport chain
+GO:0016043	P	0.15	cellular component organization
+GO:0006950	P	0.13	response to stress
+GO:0043933	P	0.12	macromolecular complex subunit organization
+GO:0022607	P	0.12	cellular component assembly
+GO:0071822	P	0.11	protein complex subunit organization
+GO:0065003	P	0.11	macromolecular complex assembly
+GO:0043623	P	0.10	cellular protein complex assembly
+GO:0006120	P	0.10	mitochondrial electron transport, NADH to ubiquinone
+GO:0006979	P	0.09	response to oxidative stress

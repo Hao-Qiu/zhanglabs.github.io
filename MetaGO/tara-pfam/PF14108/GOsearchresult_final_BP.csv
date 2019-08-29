@@ -1,0 +1,33 @@
+GO:0009987	P	0.97	cellular process
+GO:0044699	P	0.90	single-organism process
+GO:0008152	P	0.90	metabolic process
+GO:0044237	P	0.85	cellular metabolic process
+GO:0071704	P	0.76	organic substance metabolic process
+GO:0044763	P	0.74	single-organism cellular process
+GO:0044710	P	0.69	single-organism metabolic process
+GO:0044238	P	0.60	primary metabolic process
+GO:0065007	P	0.55	biological regulation
+GO:0009058	P	0.54	biosynthetic process
+GO:0050789	P	0.47	regulation of biological process
+GO:1901576	P	0.44	organic substance biosynthetic process
+GO:0044711	P	0.44	single-organism biosynthetic process
+GO:0044249	P	0.43	cellular biosynthetic process
+GO:0050794	P	0.40	regulation of cellular process
+GO:0044281	P	0.40	small molecule metabolic process
+GO:0019222	P	0.31	regulation of metabolic process
+GO:0031323	P	0.30	regulation of cellular metabolic process
+GO:0006082	P	0.30	organic acid metabolic process
+GO:0019752	P	0.29	carboxylic acid metabolic process
+GO:0006629	P	0.25	lipid metabolic process
+GO:0044255	P	0.23	cellular lipid metabolic process
+GO:0032787	P	0.22	monocarboxylic acid metabolic process
+GO:0044283	P	0.21	small molecule biosynthetic process
+GO:0006720	P	0.19	isoprenoid metabolic process
+GO:0006721	P	0.18	terpenoid metabolic process
+GO:0016116	P	0.17	carotenoid metabolic process
+GO:0016053	P	0.17	organic acid biosynthetic process
+GO:0072330	P	0.16	monocarboxylic acid biosynthetic process
+GO:0016122	P	0.16	xanthophyll metabolic process
+GO:2000377	P	0.14	regulation of reactive oxygen species metabolic process
+GO:0009688	P	0.14	abscisic acid biosynthetic process
+GO:0032928	P	0.13	regulation of superoxide anion generation

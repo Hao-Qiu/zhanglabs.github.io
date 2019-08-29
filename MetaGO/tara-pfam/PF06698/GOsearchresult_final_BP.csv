@@ -1,0 +1,30 @@
+GO:0071704	P	1.00	organic substance metabolic process
+GO:0044237	P	1.00	cellular metabolic process
+GO:0044260	P	0.99	cellular macromolecule metabolic process
+GO:0044238	P	0.99	primary metabolic process
+GO:0034641	P	0.99	cellular nitrogen compound metabolic process
+GO:1901576	P	0.98	organic substance biosynthetic process
+GO:1901564	P	0.98	organonitrogen compound metabolic process
+GO:0044249	P	0.98	cellular biosynthetic process
+GO:0044271	P	0.97	cellular nitrogen compound biosynthetic process
+GO:1901566	P	0.96	organonitrogen compound biosynthetic process
+GO:0044267	P	0.96	cellular protein metabolic process
+GO:0034645	P	0.96	cellular macromolecule biosynthetic process
+GO:0006518	P	0.96	peptide metabolic process
+GO:0006412	P	0.94	translation
+GO:1901360	P	0.70	organic cyclic compound metabolic process
+GO:0046483	P	0.70	heterocycle metabolic process
+GO:0006725	P	0.70	cellular aromatic compound metabolic process
+GO:0006139	P	0.69	nucleobase-containing compound metabolic process
+GO:0090304	P	0.58	nucleic acid metabolic process
+GO:0016070	P	0.52	RNA metabolic process
+GO:0034660	P	0.46	ncRNA metabolic process
+GO:0006396	P	0.45	RNA processing
+GO:0034470	P	0.43	ncRNA processing
+GO:0006364	P	0.41	rRNA processing
+GO:0000470	P	0.35	maturation of LSU-rRNA
+GO:0000463	P	0.33	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0044699	P	0.26	single-organism process
+GO:0071840	P	0.24	cellular component organization or biogenesis
+GO:0044763	P	0.21	single-organism cellular process
+GO:0016043	P	0.21	cellular component organization
