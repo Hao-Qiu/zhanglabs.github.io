@@ -1,4 +1,4 @@
-Download these scripts as a zip archive at [https://zhanglab.ccmb.med.umich.edu/Tara-3D/scripts_repSeqs+and+its+MSA.zip](https://zhanglab.ccmb.med.umich.edu/Tara-3D/scripts_repSeqs+and+its+MSA.zip).
+Download these scripts as a zip archive at [scripts_repSeqs+and+its+MSA.zip](http://doi.org/10.5281/zenodo.3380712).
 
 These scripts are used to select the Pfam families for predicting, and generate the representative sequences and their corresponding MSAs of selected Pfam families.  These scripts are divided into three parts: MSA generation, Nf caculation, and representative sequence and its MSA production.
 
